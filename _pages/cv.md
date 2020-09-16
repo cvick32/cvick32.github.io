@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. with Honors in Computer Science and Philosophy, Northeastern University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant
+  * Working with Dr. Stavros Tripakis and Dr. Eunsuk Kang
+  * Investigating counter-example classification of formal models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: REU Research Assistant, Northeastern University
+  * Worked with Dr. Stavros Tripakis and his PhD students
+  * Developed a tool for discovering attacks against distributed protocols
+  * Published a research paper, accepted into SAFECOMP 2020
+
+* January-June 2019: Research Assistant, MIT Media Lab
+  * Engineered a test implementation of a Digital Fiat Currency (DFC)
+  * Utilized CryptoKernel, a DCI blockchain implementation written in C++
+  * Presented original DFC research to Media Lab members and DCI team
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Formal Modelling
+  * Spin
+  * Alloy
+* Programming
+  * Python
+  * Racket
+  * Java
+* Miscellaneous
+  * Git
+  * Unix
+  * SQL
 
 Publications
 ======
@@ -42,18 +49,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Khoury College Peer Mentor
+* Setta-Meyer Award in Philosophy
+* Teaching Assistant
