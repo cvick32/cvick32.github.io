@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cole Vick / Site Title"
+title                    : "Cole Vick"
 title_separator          : "-"
 name                     : &name "Cole Vick"
 description              : &description "Research Assistant"
@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -86,34 +84,10 @@ author:
   location         : "Fort Worth, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=cpSjIecAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            : "cole.d.vick@gmail.com"
   github           : "cvick32"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  linkedin         : "https://www.linkedin.com/in/cole-vick-b05367b8/"
+ 
 
 
 # Reading Files
